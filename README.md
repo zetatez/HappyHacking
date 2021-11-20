@@ -23,10 +23,16 @@ KB designing
     Fn + Ctrl 0   :type-c interface
     Fn + X        :stop pairing
 
+## Switch
+
+    1:on/off =
+    2:on/off =
+    3:on/off = BS                  <-> Del
+    4:on/off = Left_Win            <-> Left_Alt
+    5:on/off = Right_Win           <-> Right_Alt
+    6:on/off = Power_Saving_Enable <-> Power_Saving_Disable
 
 ## Instruction
-
-    Fn = Left_Fn/Right_Fn
 
     Fn + Esc = Power
     Fn + Tab = Cap
@@ -94,10 +100,3 @@ KB designing
     Shift + ,  = <
     Shift + .  = >
 
-- switch:
-    1(on/off) =
-    2(on/off) =
-    3(on/off) = BS<->Del
-    4(on/off) = Left_Win<->Left_Alt
-    5(on/off) = Right_Win<->Right_Alt
-    6(on/off) = Power_Saving_Enable<->Power_Saving_Disable
