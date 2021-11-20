@@ -4,6 +4,26 @@
 KB designing
 
 
+## Para
+
+    size      :294×110mm H<39.9mm
+    weight    :< 530g
+    axis      :tee/red
+    interface :type-c
+    backlight :No
+    bluetooth :Yes
+    backlight :No
+    battery   :lithium 3000-5000 mA
+    keys      :61
+
+## Bluetooth
+
+    Fn + Q
+    Fn + Ctrl 1-9 :pairing
+    Fn + Ctrl 0   :type-c interface
+    Fn + X        :stop pairing
+
+
 ## Instruction
 
     Fn = Left_Fn/Right_Fn
@@ -74,3 +94,10 @@ KB designing
     Shift + ,  = <
     Shift + .  = >
 
+- switch:
+    1(on/off) =
+    2(on/off) =
+    3(on/off) = BS<->Del
+    4(on/off) = Left_Win<->Left_Alt
+    5(on/off) = Right_Win<->Right_Alt
+    6(on/off) = Power_Saving_Enable<->Power_Saving_Disable
