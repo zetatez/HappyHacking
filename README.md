@@ -1,7 +1,7 @@
 # HappyHacking
 
 KB designing
-![HappyHacking](https://github.com/zetatez/HappyHacking/blob/main/designing.png)
+![HappyHacking](https://github.com/zetatez/HappyHacking/blob/main/hk.png)
 
 
 ## Para
