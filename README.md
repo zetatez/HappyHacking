@@ -16,21 +16,33 @@ KB designing
     battery   :lithium 3000-5000 mA
     keys      :61
 
-## Bluetooth
+## wire
+
+    Fn + Q
+    Fn + Ctrl 0   :type-c interface
+
+## Wireless: Bluetooth
 
     Fn + Q
     Fn + Ctrl 1-9 :pairing
-    Fn + Ctrl 0   :type-c interface
     Fn + X        :stop pairing
 
 ## Switch
 
-    1:on/off =
-    2:on/off =
-    3:on/off = BS                  <-> Del
-    4:on/off = Left_Win            <-> Left_Alt
-    5:on/off = Right_Win           <-> Right_Alt
-    6:on/off = Power_Saving_Enable <-> Power_Saving_Disable
+| Comments               | switch 1 | switch 2 | switch 3 | switch 4 | switch 5 | switch 6 |
+| :-                     | :-:      | :-:      | :-:      | :-:      | :-:      | :-:      |
+| LINUX                  | off      | off      | -        | -        | -        | -        |
+| MAC                    | on       | on       | -        | -        | -        | -        |
+| WIN                    | on       | off      | -        | -        | -        | -        |
+| HHK                    | off      | on       | -        | -        | -        | -        |
+| BS -> BS               | -        | -        | off      | -        | -        | -        |
+| BS -> Del              | -        | -        | on       | -        | -        | -        |
+| Left_Win -> Left_Win   | -        | -        | -        | off      | -        | -        |
+| Left_Win -> Left_Alt   | -        | -        | -        | on       | -        | -        |
+| Right_Win -> Right_Win | -        | -        | -        | -        | off      | -        |
+| Right_Win -> Right_Alt | -        | -        | -        | -        | on       | -        |
+| Power_Saving_Disable   | -        | -        | -        | -        | -        | off      |
+| Power_Saving_Enable    | -        | -        | -        | -        | -        | on       |
 
 ## Instruction
 
